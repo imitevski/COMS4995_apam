@@ -9,7 +9,7 @@ Each meeting has **discussion leads** that shortly present the reading material 
 **DL**: Goodfellow, Bengio, Courville - Deep Learning [(link)](http://www.deeplearningbook.org)
 ### Meeting Schedule
 --- 
-1.  **January 10, 2:00pm**
+1.  __**January 10, 2:00pm**__\
 **discussion leads**: Isabelle Bunge & Ivan Mitevski \
 **homework**: #2 \
 **slides**: 1, 2, 3, 4, 5, 6 \
