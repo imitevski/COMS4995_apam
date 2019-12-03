@@ -10,10 +10,10 @@ Each meeting has **discussion leads** that shortly present the reading material 
 ### Meeting Schedule
 --- 
 1.  **January 10, 2:00pm**
-**discussion leads**: Isabelle Bunge & Ivan Mitevski\
-**homework**: #2
-**slides**: 1, 2, 3, 4, 5, 6
-**reading**: **IMLP**: 1,2.1 - 2.3.2, 5.1 - 5.2, 3.3, 4.1 - 4.6; **APM**: 1 - 2, 4 - 4.8, 3;  
-Note that a lot of the readings are basic and some chapters can be skipped. 
+**discussion leads**: Isabelle Bunge & Ivan Mitevski \
+**homework**: #2 \
+**slides**: 1, 2, 3, 4, 5, 6 \
+**reading**: **IMLP**: 1,2.1 - 2.3.2, 5.1 - 5.2, 3.3, 4.1 - 4.6; **APM**: 1 - 2, 4 - 4.8, 3;  \
+Note that a lot of the readings are basic and some chapters can be skipped. \
 2. 
 
