@@ -1,9 +1,19 @@
-# Applied Machine Learning Spring 2019
+# Applied Machine Learning - APAM reading group
 
-Materials for the course COMS4995 will be posted here.
+Materials and schedule for APAM reading group based on course COMS4995 [(link)](http://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/) from Andreas C. Muller. Additionally, we will cover some sections from Andrew Ng's course CS229 [(link)](http://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/).
+Each meeting has **discussion leads** that shortly present the reading material and go over the homework assignment solutions which will be posted in the **homeworks_solution** folder in a jupyter notebook. The following meeting schedule consists of reading & homework assignments and  discussion leads. 
+### Books used: 
+---
+**IMLP**: Mueller, Guido - Introduction to machine learning with python
+**APM**: Kuhn, Johnson - Applied predictive modeling
+**DL**: Goodfellow, Bengio, Courville - Deep Learning [(link)](http://www.deeplearningbook.org)
+### Meeting Schedule
+--- 
+1.  **January 10, 2:00pm**
+**discussion leads**: Isabelle Bunge & Ivan Mitevski
+**homework**: #2
+**slides**: 1, 2, 3, 4, 5, 6
+**reading**: **IMLP**: 1,2.1 - 2.3.2, 5.1 - 5.2, 3.3, 4.1 - 4.6; **APM**: 1 - 2, 4 - 4.8, 3;  
+Note that a lot of the readings are basic and some chapters can be skipped. 
+2. 
 
-You can find more details on the course (and an overview of the materials) on [the course website](http://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/).
-
-Slides are in the [slides](https://amueller.github.io/COMS4995-s19/slides/) subfolder.
-
-Everything in this repository is licensed CC-0, meaning you can do with it whatever you want.
