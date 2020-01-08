@@ -4,7 +4,7 @@ Materials and schedule for APAM reading group based on course COMS4995 [(link)](
 Each meeting has **discussion leads** that shortly present the reading material and go over the homework assignment solutions which will be posted in the **homeworks_solution** folder in a jupyter notebook. The following meeting schedule consists of reading & homework assignments and  discussion leads. 
 ### Books used: 
 ---
-**IMLP**: Mueller, Guido - Introduction to machine learning with python\
+**IMLP**: Mueller, Guido - Introduction to machine learning with python\ (https://ezproxy.cul.columbia.edu/login?qurl=https%3a%2f%2fsearch.ebscohost.com%2flogin.aspx%3fdirect%3dtrue%26db%3dnlebk%26AN%3d1361381%26site%3dehost-live%26scope%3dsite)
 **APM**: Kuhn, Johnson - Applied predictive modeling\
 **DL**: Goodfellow, Bengio, Courville - Deep Learning [(link)](http://www.deeplearningbook.org)
 ### Meeting Schedule
